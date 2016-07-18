@@ -1,0 +1,7 @@
+build
+*.swp
+*.ply
+*.jpg
+*.png
+*.pyc
+.ycm_extra_conf.py
